@@ -2,6 +2,7 @@
 HTML AND CSS PRACTICE PROJECT
 🧥 Hoodies Landing Page
 A modern and responsive landing page designed for a hoodie apparel brand. This project is built using HTML and CSS to showcase clean design, smooth layout, and a user-focused interface — ideal for online clothing stores, portfolio demos, or front-end practice.
+LIVE PREVIEW:  https://student-uettaxila.github.io/Hoodies-Landing_page/
 
 📌 Features
 ✅ Responsive layout for desktop, tablet, and mobile screens
